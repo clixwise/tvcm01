@@ -1,4 +1,4 @@
-24-09-22 11:11:05
+24-09-22 16:27:27
 
 'KE43_CEAP_UNBI_DETA_NAC6 SEXE:A'
                 cont_tabl
@@ -48,9 +48,9 @@ C6  [[187, 62], [92, 21]]
 31  nema      C6       0.414      0.019            3/5                                                                                association:moderate(positive)            1/3                            ¬2                                                         2/3
 32  cok2      NA  -1.567e-01      1.000            0/5                             Kappa < 0: No agreement, indicating a systematic disagreement between the raters.            0/3                             ✓                                                         3/3
 33  cok2      C0  -9.301e-02      1.000            0/5                             Kappa < 0: No agreement, indicating a systematic disagreement between the raters.            0/3                             ✓                                                         3/3
-34  cok2      C1       0.169      0.050            1/5                  Kappa < 0.20: Slight agreement, indicating a very low level of agreement between the raters.            0/3                             ✓                                                         3/3
-35  cok2      C2       0.083      0.106            1/5                  Kappa < 0.20: Slight agreement, indicating a very low level of agreement between the raters.            0/3                             ✓                                                         3/3
+34  cok2      C1       0.169      0.068            1/5                  Kappa < 0.20: Slight agreement, indicating a very low level of agreement between the raters.            0/3                             ✓                                                         3/3
+35  cok2      C2       0.083      0.080            1/5                  Kappa < 0.20: Slight agreement, indicating a very low level of agreement between the raters.            0/3                             ✓                                                         3/3
 36  cok2      C3       0.455  0.000e+00            3/5                Kappa < 0.60: Moderate agreement, indicating a moderate level of agreement between the raters.            3/3                             ✓                                                         3/3
 37  cok2      C4       0.393  0.000e+00            2/5                         Kappa < 0.40: Fair agreement, indicating a low level of agreement between the raters.            3/3                             ✓                                                         3/3
 38  cok2      C5       0.166      0.012            1/5                  Kappa < 0.20: Slight agreement, indicating a very low level of agreement between the raters.            1/3                             ✓                                                         3/3
-39  cok2      C6  -6.809e-02      0.932            0/5                             Kappa < 0: No agreement, indicating a systematic disagreement between the raters.            0/3                             ✓                                                         3/3
+39  cok2      C6  -6.809e-02      0.914            0/5                             Kappa < 0: No agreement, indicating a systematic disagreement between the raters.            0/3                             ✓                                                         3/3
